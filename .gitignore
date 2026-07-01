@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+*.iml
+build/
+app/build/
+local.properties
+
+# Release signing material must stay private.
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# Local distribution outputs.
+outputs/
+work/
